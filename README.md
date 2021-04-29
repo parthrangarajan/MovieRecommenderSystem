@@ -10,3 +10,6 @@ In this repository I have TuriCreate library to develope a Basic Movie Recommend
 One of the main problems that Recommender Systems face is called _Cold Start_ problem. When a new user, signs up for the service, what recommendations could the service provide him/her? Or the more important question that is, "How do we recommend our products to her/him? and which products?"
 
 This problem is overcome Knowledge-Based Recommender Systems that capture digitally stored knowledge in a company’s backend to match specific user queries by decoding its intents, context, and entities in their backend in the form of datasets. They then apply this to a new user on the basis of an "if-this-then-that" approach.Once the user begins to use the services of the company, the Cold Start problem slowly diminishes.
+
+
+The following model uses **_Content Based Recommender Systems_**.
